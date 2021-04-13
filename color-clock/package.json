@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheCodingBarista/npm-lab.git"
+  },
+  "author": "Melissa Holt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodingBarista/npm-lab/issues"
+  },
+  "homepage": "https://github.com/TheCodingBarista/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
